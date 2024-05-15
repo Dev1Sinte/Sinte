@@ -1,2 +1,0 @@
-# Sinte
-Proyecto_sinte
